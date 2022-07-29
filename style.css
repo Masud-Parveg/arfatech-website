@@ -1,9 +1,6 @@
 .background-color {
     background: #289BDE;
 }
-.my-color {
-    color:#289BDE ;
-}
 
 .companies-logo img{
     margin-top: 25px;
@@ -16,3 +13,6 @@
   .banner-header{
         font-size: ;
   }
+.navbar-brand img {
+    width: 300px;
+}
